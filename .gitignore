@@ -1,0 +1,7 @@
+data/
+reports/
+*.log
+configs/api_keys.conf
+__pycache__/
+*.pyc
+venv/
